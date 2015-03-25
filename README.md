@@ -1,2 +1,2 @@
 # CSW-Provider
-# Handles CSW requests for metadata.
+Handles CSW requests for metadata.
